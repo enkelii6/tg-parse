@@ -33,5 +33,7 @@ async def main():
     await client.log_out()
 
 
+# comment example
+
 if __name__ == '__main__':
     asyncio.run(main())
